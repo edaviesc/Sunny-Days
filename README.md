@@ -11,7 +11,13 @@ The chart displays:
 - A **line plot** with markers for clear data points
 - A **horizontal dashed line** representing the annual average number of sunny days
 
-This simple visualization is useful for understanding weather patterns, seasonal planning, or learning the basics of data visualization in Python.
+---
+
+## 🖼️ Visualization Output
+
+![Monthly Sunny Days Line Chart](sunnydays.jpg)
+
+> The dashed orange line represents the average number of sunny days across the year.
 
 ---
 
